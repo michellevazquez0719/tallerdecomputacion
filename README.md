@@ -8,6 +8,6 @@
 hoy inicie sesion en discord y me puse al corriente con mis tareas
 
 ## tarea 996
-[cvespañol](cv.pdf)
+[cvespañol](CV.pdf)
 
-[cvingles](cvingles.pdf)
+[cvingles](Cvingles.pdf)
