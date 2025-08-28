@@ -7,3 +7,7 @@
 
 hoy inicie sesion en discord y me puse al corriente con mis tareas
 
+## tarea 996
+[cvespañol](cv.pdf)
+
+[cvingles](cvingles.pdf)
