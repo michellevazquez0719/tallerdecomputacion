@@ -35,7 +35,8 @@ Exportar: Permite exportar (o guardar) su documento como un tipo diferente.
 Cuenta: Permite cambiar los colores del fondo de Office e iniciar sesión con otra cuenta de Microsoft si es necesario.
 Opciones: Permite acceder a las funciones avanzadas de Word. Esta función también permite reorganizar la cinta de opciones u otras configuraciones de la aplicación.
 
-![tarea995](3.png)
+![tarea995](3.png
+
 
 
 
