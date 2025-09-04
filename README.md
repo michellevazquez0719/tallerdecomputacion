@@ -20,4 +20,6 @@ Todo Microsoft Office 2016 incluye el área Backstage. En Backstage, puedes admi
 
 La primera página que verá es la página de información. Esta página muestra el nombre, el tamaño y los autores de su archivo. También puede ver cuándo se realizó el último autoguardado. El autoguardado es la red de seguridad de Office. Periódicamente, su computadora guardará automáticamente su archivo como archivo temporal. Si se apaga su computadora, puede recuperar parte de su trabajo desde el autoguardado.
 
+![tarea995](2.png)
+
 
