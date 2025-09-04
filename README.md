@@ -46,6 +46,12 @@ En la esquina inferior derecha de algunos grupos, hay una flecha diagonal llamad
 
 ![tarea995](5.png)
 
+Figura 4 - Lanzador de diálogos Aparecerán pestañas contextuales según la tarea en la que esté trabajando. Por ejemplo, si ha insertado imágenes, la pestaña aparecerá al seleccionar una imagen.
 
+![tarea995](66.png)
 
+Figura 5 – Pestaña contextual
+Personalización de la cinta de opciones
+Puede ocultar o mostrar las pestañas que no utiliza o crear su propia pestaña de herramientas favoritas. A continuación, se explica cómo personalizar la cinta de opciones para crear sus propias pestañas y grupos.
 
+![tarea995](7.png)
