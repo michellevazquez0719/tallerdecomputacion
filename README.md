@@ -37,6 +37,10 @@ Opciones: Permite acceder a las funciones avanzadas de Word. Esta función tambi
 
 ![tarea995](3.png)
 
+La Cinta
+La Cinta es un panel que contiene grupos funcionales de botones y listas desplegables, organizados en pestañas. Cada producto de Office cuenta con un conjunto de pestañas que corresponden a la funcionalidad de la aplicación. Cada pestaña se divide a su vez en grupos como Fuente y Párrafo.
+
+
 
 
 
