@@ -40,7 +40,11 @@ Opciones: Permite acceder a las funciones avanzadas de Word. Esta función tambi
 La Cinta
 La Cinta es un panel que contiene grupos funcionales de botones y listas desplegables, organizados en pestañas. Cada producto de Office cuenta con un conjunto de pestañas que corresponden a la funcionalidad de la aplicación. Cada pestaña se divide a su vez en grupos como Fuente y Párrafo.
 
+![tarea995](44.png)
 
+En la esquina inferior derecha de algunos grupos, hay una flecha diagonal llamada Iniciador de cuadro de diálogo (ver Figura 4). Al hacer clic en este botón, se abre un cuadro de diálogo para ese grupo con más opciones.
+
+![tarea995](5.png)
 
 
 
