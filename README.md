@@ -55,3 +55,25 @@ Personalización de la cinta de opciones
 Puede ocultar o mostrar las pestañas que no utiliza o crear su propia pestaña de herramientas favoritas. A continuación, se explica cómo personalizar la cinta de opciones para crear sus propias pestañas y grupos.
 
 ![tarea995](7.png)
+
+Figura 6 - Pestaña Archivo (Vista Backstage)
+
+✓ En la Vista Backstage, haga clic en Opciones.
+
+✓ En el cuadro de diálogo Opciones de Word, haga clic en Personalizar Cinta (Ver Figura 7).
+
+✓ Haga clic en el botón Nueva pestaña (Ver Figura 7).
+
+✓ Se ha añadido una Nueva pestaña a la lista de Pestañas principales. En Nueva pestaña, verá que Nuevo grupo ya está seleccionado (Ver Figura 7).
+
+✓ En la columna de la izquierda, seleccione un comando de la lista en Elegir comandos de para añadirlo al Nuevo grupo (Ver Figura 7).
+
+✓ Haga clic en el botón Añadir (Ver Figura 7).
+
+✓ El comando se añadirá a la pestaña Nuevo grupo.
+
+✓ Para cambiar el nombre de la pestaña o el grupo, haga clic con el botón derecho en la Nueva pestaña o el Nuevo grupo (Ver Figura 8).
+
+✓ Haga clic en Cambiar nombre (Ver Figura 8).
+
+✓ Para ocultar una pestaña, quite la marca de verificación junto al nombre de la pestaña (ver Figura 8)
