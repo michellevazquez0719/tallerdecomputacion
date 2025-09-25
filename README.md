@@ -77,3 +77,103 @@ Figura 6 - Pestaña Archivo (Vista Backstage)
 ✓ Haga clic en Cambiar nombre (Ver Figura 8).
 
 ✓ Para ocultar una pestaña, quite la marca de verificación junto al nombre de la pestaña (ver Figura 8)
+
+
+tarea #99
+Rango en Excel
+ 
+Un rango en Excel es una colección de dos o más celdas. Este capítulo ofrece una descripción general de algunas operaciones de rango muy importantes.
+
+•	Celda, Fila, Columna
+Comencemos seleccionando una celda, una fila y una columna.
+
+1. Para seleccionar la celda C3, haga clic en el cuadro en la intersección de la columna C y la fila 3.
+
+![tarea998](1.png)
+
+Seleccionar una celda
+
+
+2. Para seleccionar la columna C, haga clic en el encabezado de la columna C.
+
+![tarea998](2.png)
+
+Seleccionar una columna en Excel
+
+3. Para seleccionar la fila 3, haga clic en el encabezado de la fila 3.
+
+![tarea998](3.png)
+
+Seleccione una fila
+
+Ejemplos de rango
+Un rango es una colección de dos o más celdas.
+
+1. Para seleccionar el rango B2:C4, haga clic en la celda B2 y arrástrela a la celda C4.
+
+![tarea998](4.png)
+
+Rango en Excel
+
+2. Para seleccionar un rango de celdas individuales, mantenga presionada la tecla CTRL y haga clic en cada celda que desee incluir en el rango.
+
+![tarea998](5.png)
+
+•	Una gama de células individuales
+
+Rellenar un rango
+Para llenar un rango, ejecute los siguientes pasos.
+
+1a. Ingrese el valor 2 en la celda B2.
+
+![tarea998](6.png)
+
+Introduzca un valor
+
+1b. Seleccione la celda B2, haga clic en la esquina inferior derecha de la celda B2 y arrástrela hasta la celda B8.
+Resultado:
+
+![tarea998](7.png)
+
+Esta técnica de arrastrar es muy importante y la usarás con mucha frecuencia en Excel. Aquí tienes otro ejemplo
+2a. Ingrese el valor 2 en la celda B2 y el valor 4 en la celda B3.
+
+![tarea998](8.png)
+
+Un patrón
+
+2b. Seleccione las celdas B2 y B3, haga clic en la esquina inferior derecha de este rango y arrástrelo hacia abajo.
+
+Patrón arrastrado hacia abajo
+
+![tarea998](9.png)
+
+Excel rellena automáticamente el rango según el patrón de los dos primeros valores. Genial, ¿verdad? Aquí tienes otro ejemplo.
+
+3a. Ingrese la fecha 13/6/2030 en la celda B2 y la fecha 16/6/2030 en la celda B3.
+
+![tarea998](10.png)
+
+
+3b. Seleccione las celdas B2 y B3, haga clic en la esquina inferior derecha de este rango y arrástrelo hacia abajo.
+
+![tarea998](11.png)
+
+•	Mover un rango
+Para mover un rango, ejecute los siguientes pasos.
+
+1. Seleccione un rango y haga clic en el borde del rango.
+
+![tarea998](12.png)
+
+2. Arrastre el rango a su nueva ubicación.
+
+Resultado del movimiento
+
+Copiar/Pegar un rango
+Para copiar y pegar un rango, ejecute los siguientes pasos.
+
+1. Seleccione el rango, haga clic derecho y luego haga clic en Copiar (o presione CTRL + c).
+
+
+
