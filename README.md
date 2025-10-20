@@ -80,5 +80,5 @@ Figura 6 - Pestaña Archivo (Vista Backstage)
 
 
 ## tarea #986
-wp220300398-oizwt.wordpress.com 
+[title](https://wp220300398-oizwt.wordpress.com/)
 Este es el link de mi blog en wordpress
