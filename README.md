@@ -79,6 +79,6 @@ Figura 6 - Pestaña Archivo (Vista Backstage)
 ✓ Para ocultar una pestaña, quite la marca de verificación junto al nombre de la pestaña (ver Figura 8)
 
 
-tarea #986
+## tarea #986
 wp220300398-oizwt.wordpress.com 
 Este es el link de mi blog en wordpress
